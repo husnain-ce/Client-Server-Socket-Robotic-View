@@ -1,0 +1,11 @@
+Now Db integrated
+Connection properly working
+After Connection the stablized tunnel is also working
+
+
+
+So I have to create the video and remove the extra code
+
+then I have to create the attack demonstration video
+
+then I have to create the documet for submission of client
